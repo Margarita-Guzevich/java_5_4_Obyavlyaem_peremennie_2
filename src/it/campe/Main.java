@@ -4,9 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int a = 6, b = a - 3;
-        System.out.println(a);
-        System.out.print(b);
+        int a = 6;
+                int b = a - 3;
 
     }
 }
